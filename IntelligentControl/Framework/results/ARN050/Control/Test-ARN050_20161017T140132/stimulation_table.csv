@@ -1,0 +1,4 @@
+stimulation_uid,headstage_type,electrode_location,experiment_start_time,experiment_name,animal_id,block_name,sampling_frequency,stimulation_time,pulse_frequency,train_frequency,stimulation_duration,stimulation_amplitude_a,stimulation_amplitude_b,stimulation_pulse_width_a,stimulation_pulse_width_b,stimulation_gap,stimulation_synchronicity,stimulation_type,stimulation_channel_order
+,ZC16-OB1,HPC,1476712892.277000,Test,050,Block-87,2.441406e+04,20.872274,23.000000,0.000000,20.000000,2.500000,2.500000,5.000000,5.000000,0.000000,0.000000,,1|3|5|7|10|12|14|16
+,ZC16-OB1,HPC,1476712892.277000,Test,050,Block-87,2.441406e+04,80.873718,23.000000,0.000000,20.000000,2.500000,2.500000,5.000000,5.000000,0.000000,0.000000,,1|3|5|7|10|12|14|16
+,ZC16-OB1,HPC,1476712892.277000,Test,050,Block-87,2.441406e+04,140.877906,23.000000,0.000000,20.000000,2.500000,2.500000,5.000000,5.000000,0.000000,0.000000,,1|3|5|7|10|12|14|16

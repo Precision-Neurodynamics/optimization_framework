@@ -1,0 +1,2 @@
+stimulation_uid,headstage_type,electrode_location,experiment_start_time,experiment_name,animal_id,block_name,sampling_frequency,stimulation_time,pulse_frequency,train_frequency,stimulation_duration,stimulation_amplitude_a,stimulation_amplitude_b,stimulation_pulse_width_a,stimulation_pulse_width_b,stimulation_gap,stimulation_synchronicity,stimulation_type,stimulation_channel_order
+,ZC16-OB1,HPC,1492086135.450000,Calib,Ferrule,Block-16,2.441406e+04,0.672031,1.000000,0.000000,30.000000,2.250000,2.250000,499.500000,499.500000,0.000000,0.000000,,1|3|5|7|10|12|14|16

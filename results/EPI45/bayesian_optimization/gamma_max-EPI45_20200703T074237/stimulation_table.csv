@@ -1,0 +1,7 @@
+stimulation_uid,headstage_type,electrode_location,experiment_start_time,experiment_name,animal_id,block_name,sampling_frequency,stimulation_time,pulse_frequency_train,pulse_frequency_pulse,stimulation_duration,stimulation_amplitude_a,stimulation_amplitude_b,stimulation_pulse_width_train_a,stimulation_pulse_width_train_b,stimulation_pulse_width_pulse_a,stimulation_pulse_width_pulse_b,stimulation_train_TorF,stimulation_type,stimulation_channel_order
+1593762158.238000,ZC16-OB1-16CH,R_HPC,1593762157.504000,gamma_max,EPI45,,彞,1.121000,,33.209336,3.000000,24.231171,24.231171,0.000000,0.000000,0.001029,0.001029,1.000000,standard,10
+1593762163.672000,ZC16-OB1-16CH,R_HPC,1593762157.504000,gamma_max,EPI45,,彞,6.664000,,15.337503,3.000000,15.645661,15.645661,0.000000,0.000000,0.004785,0.004785,1.000000,standard,10
+1593762169.191000,ZC16-OB1-16CH,R_HPC,1593762157.504000,gamma_max,EPI45,,彞,12.157000,,23.922131,3.000000,11.418821,11.418821,0.000000,0.000000,0.001242,0.001242,1.000000,standard,10
+1593762174.525000,ZC16-OB1-16CH,R_HPC,1593762157.504000,gamma_max,EPI45,,彞,17.455000,,41.822991,3.000000,20.175325,20.175325,0.000000,0.000000,0.001746,0.001746,1.000000,standard,10
+1593762179.966000,ZC16-OB1-16CH,R_HPC,1593762157.504000,gamma_max,EPI45,,彞,22.898000,,22.203308,3.000000,20.697049,20.697049,0.000000,0.000000,0.004256,0.004256,1.000000,standard,10
+1593762185.455000,ZC16-OB1-16CH,R_HPC,1593762157.504000,gamma_max,EPI45,,彞,28.400000,,22.418240,3.000000,7.480518,7.480518,0.000000,0.000000,0.004428,0.004428,1.000000,standard,10
